@@ -216,10 +216,10 @@
 
 ---
 
-<table>
+<table align="center" width="90%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h3 align="center">📄 CHAT WITH PDF</h3>
 
@@ -249,7 +249,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h3 align="center">📉 CUSTOMER CHURN AI</h3>
 
@@ -282,10 +282,12 @@
 </tr>
 </table>
 
-<table>
+<br/>
+
+<table align="center" width="90%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h3 align="center">📱 SMARTPHONE ANALYTICS</h3>
 
@@ -315,7 +317,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <h3 align="center">▶️ YOUTUBE ANALYTICS</h3>
 
