@@ -350,17 +350,33 @@
 
 ---
 
-# 📈 GITHUB ANALYTICS
+<h1 align="center">📈 GITHUB ANALYTICS</h1>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jayanth280203&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Jayanth280203&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Jayanth's GitHub Stats"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth280203&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img
+    width="37%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth280203&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+
+</div>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanth280203&theme=tokyonight&hide_border=true&background=0D1117"/>
+<div align="center">
+
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanth280203&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
 
