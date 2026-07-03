@@ -22,9 +22,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jayanth280203&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
