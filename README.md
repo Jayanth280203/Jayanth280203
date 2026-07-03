@@ -354,29 +354,25 @@
 
 <div align="center">
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Jayanth280203&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Jayanth's GitHub Stats"
-  />
+<img
+  width="49%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jayanth280203&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-  <img
-    width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth280203&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+<img
+  width="37%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jayanth280203&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanth280203&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img
+  width="70%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanth280203&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
