@@ -1,111 +1,224 @@
-<h1 align="center">Hi 👋, I'm Jayanth R</h1>
-<h3 align="center">Executive Tech & Business | Data Science Professional | AI & Web Solutions Builder</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI+%7C+Web+%26+App+Development;MSc+Data+Science+%40+Bharathidasan+University;Building+Intelligent+Digital+Solutions" alt="Typing SVG" />
+# 👋 Hi, I'm Jayanth R
+
+### Executive – Tech & Business | AI & Data Science Professional | Digital Solutions Builder
+
+<p>
+I bridge <b>technology, data, AI, and business requirements</b> to build practical digital solutions.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayanthrajan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jayanthr239@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://jayanth280203.github.io/jayanth-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://wa.me/918525092729"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jayanth_.r_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Executive+%E2%80%93+Tech+%26+Business;Building+AI-Powered+Digital+Solutions;Data+Science+%7C+Machine+Learning+%7C+Analytics;Web+%26+Mobile+Application+Development;Turning+Business+Requirements+into+Technology+Solutions" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/jayanthrajan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jayanthr239@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://jayanth280203.github.io/jayanth-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 💼 Current Professional Role
 
-- 🎓 Pursuing **MSc Data Science** at Bharathidasan University (BDU), Trichy (2024–2026)
-- 📐 BSc Mathematics graduate from Maruthupandiyar College
-- 💼 Currently working as **Executive – Tech & Business** at **Alize Software Services LLP**, Thanjavur
-- 🧠 Passionate about AI-powered applications, data-driven systems, and scalable web/mobile solutions
-- 🔭 Interests: Web & App Development, AI/ML, Big Data (Hadoop, Hive, PySpark), UI/UX, AI-driven automation
-- 📄 [View Resume](https://drive.google.com/file/d/1CXZYBH6vN7ehCqucxEd1g7ipeE6bwp84/view?usp=drivesdk)
+<table>
+<tr>
+<td width="70">
 
----
+### 🏢
 
-### 🛠️ Tech Stack
+</td>
+<td>
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+### Executive – Tech & Business  
+**Alize Software Services LLP | Thanjavur, Tamil Nadu**
 
-**Data & AI**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+Working at the intersection of **technology and business**, contributing to digital solution planning, requirement analysis, application development, AI-driven solutions, and translating business needs into practical technical implementations.
 
-**Visualization & BI**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+`Technology Solutions` • `Business Requirements` • `AI Integration` • `Web Development` • `App Development` • `Data Analytics`
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-### 💼 Experience
+## 👨‍💻 About Me
 
-| Role | Organization | Duration |
-|---|---|---|
-| Executive – Tech & Business | Alize Software Services LLP, Thanjavur | Apr 2026 – Present |
-| Data Science & Data Analysis Intern | Infyro, Trichy (Hybrid) | 1 Month |
+I am an **MSc Data Science postgraduate** and currently work as an **Executive – Tech & Business**, with interests spanning AI, machine learning, data analytics, web development, mobile applications, and intelligent business solutions.
 
----
+My focus is not limited to analysing data—I enjoy building complete digital systems that combine **frontend applications, backend APIs, databases, machine learning models, AI integrations, analytics, and business workflows**.
 
-### 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **SMART – Skill Mapping & Analytics for Recruiting Talents** | Flutter, Python, Flask, MongoDB Atlas, Scikit-Learn, Random Forest, Gemini API, NLP | AI-driven recruitment platform featuring ML-based job role prediction, resume parsing & ATS scoring, peer performance benchmarking, and district/block/college-wise talent discovery for employers |
-| **[Chat-With-PDF (AI Document Assistant)](https://github.com/Jayanth280203/chat-with-pdf)** | Python, Streamlit, LangChain, Gemini 2.0, FAISS | RAG-based system to query PDFs using natural language; supports document upload, intelligent summarization, and contextual Q&A |
-| **[Customer Churn Analysis & Prediction](https://github.com/Jayanth280203/Customer_Churn_Analysis_Prediction)** | Python, Pandas, Scikit-Learn, Random Forest | End-to-end machine learning pipeline for identifying high-risk churn customers and analyzing key churn drivers |
-| **[Smartphone Price Analytics & Market Strategy 2025](https://github.com/Jayanth280203/Smartphone-price-analytics-2025)** | Python, Tableau, Machine Learning | Smartphone market analytics project combining interactive dashboards with Linear Regression and Random Forest price prediction models |
-| **[Subscribers Galore – Top YouTube Channels](https://github.com/Jayanth280203/Subscribers-Galore-Exploring-world-top-you-tube-channels)** | Excel, Tableau, Data Storytelling | Interactive Tableau dashboards analyzing global YouTube channel performance, subscriber growth, categories, and content trends |
+- 🎓 MSc Data Science — Bharathidasan University, Tiruchirappalli
+- 📐 BSc Mathematics — Maruthupandiyar College
+- 💼 Executive – Tech & Business — Alize Software Services LLP
+- 🤖 Building AI-powered and data-driven applications
+- 🌐 Interested in scalable web and mobile application architecture
+- 📊 Experienced with analytics, ML workflows, dashboards, and predictive systems
+- ⚡ Exploring AI automation and business-oriented technology solutions
 
 ---
 
-### 🎓 Education
+## 🧩 What I Work On
 
-| Degree | Institution | Duration | Score |
+| 💼 Business & Technology | 🤖 AI & Machine Learning | 🌐 Application Development | 📊 Data & Analytics |
 |---|---|---|---|
-| MSc Data Science | Bharathidasan University (BDU) | 2024 – 2026 | 81.64% |
-| BSc Mathematics | Maruthupandiyar College | 2021 – 2024 | 74.79% |
-| HSC (Bio-Maths) | St Antony's Higher Secondary School | 2020 – 2021 | 89.35% |
+| Requirement Analysis | Predictive Modelling | Web Applications | Data Analysis |
+| Solution Planning | NLP Applications | Mobile Applications | Data Visualization |
+| Digital Transformation | RAG Systems | REST API Integration | BI Dashboards |
+| Process Automation | AI API Integration | Backend Development | Business Insights |
 
 ---
 
-### 📜 Certifications
+## 🛠️ Technical Skills
 
-- Prompt Engineering with ChatGPT
-- MySQL Advanced Topics
-- Data Engineering Foundations
-- Apache PySpark by Example
-- Power BI Workshop
-- R for Data Science
-- Python, R & LaTeX Training
-- MATLAB, LaTeX & Maple Workshop
-- Image Processing in MATLAB
-- IoT Workshop
+### 👨‍💻 Programming & Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### 🤖 AI, ML & Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### 🗄️ Database & Big Data
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+### 📊 Analytics & Visualization
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### ⚙️ Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jayanthrajan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jayanthr239@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://jayanth280203.github.io/jayanth-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-</p>
+### 🧠 SMART — Skill Mapping & Analytics for Recruiting Talents
 
-<p align="center"><i>Keep Rising. Exploring. Learning. Building. 🚀</i></p>
+> An AI-driven recruitment and talent intelligence ecosystem connecting students and employers through Machine Learning, NLP, resume analytics, and location-wise skill mapping.
+
+**Core Capabilities**
+
+- 🎯 ML-based academic and skill-oriented job role prediction
+- 📄 AI-powered resume parsing and ATS compatibility scoring
+- 📊 Student peer-performance benchmarking
+- 🗺️ District → Block → College level talent discovery
+- 👨‍🎓 Dedicated student intelligence dashboard
+- 🏢 Employer-focused talent analytics and filtering
+- ☁️ Centralized cloud database architecture
+
+**Technology Stack**
+
+`Flutter` `Dart` `Python` `Flask` `MongoDB Atlas` `Scikit-Learn` `Random Forest` `NLP` `Gemini API`
+
+---
+
+### 📄 Chat-With-PDF — AI Document Assistant
+
+> A Retrieval-Augmented Generation application that allows users to interact with PDF documents through natural-language questions.
+
+**Stack:** `Python` `Streamlit` `LangChain` `Gemini 2.0` `FAISS`
+
+🔗 [View Repository](https://github.com/Jayanth280203/chat-with-pdf)
+
+---
+
+### 📉 Customer Churn Analysis & Prediction
+
+> An end-to-end machine learning workflow designed to identify high-risk customers and analyse major churn indicators.
+
+**Stack:** `Python` `Pandas` `Scikit-Learn` `Random Forest`
+
+🔗 [View Repository](https://github.com/Jayanth280203/Customer_Churn_Analysis_Prediction)
+
+---
+
+### 📱 Smartphone Price Analytics & Market Strategy 2025
+
+> A data analytics and machine learning project combining smartphone market analysis, interactive dashboards, and predictive modelling.
+
+**Stack:** `Python` `Tableau` `Linear Regression` `Random Forest`
+
+🔗 [View Repository](https://github.com/Jayanth280203/Smartphone-price-analytics-2025)
+
+---
+
+### ▶️ Subscribers Galore — YouTube Channel Analytics
+
+> Interactive analytics dashboards exploring global YouTube channel performance, subscriber growth, and category trends.
+
+**Stack:** `Excel` `Tableau` `Data Visualization` `Data Storytelling`
+
+🔗 [View Repository](https://github.com/Jayanth280203/Subscribers-Galore-Exploring-world-top-you-tube-channels)
+
+---
+
+## 💼 Professional Experience
+
+| Position | Organization | Period |
+|---|---|---|
+| 🚀 **Executive – Tech & Business** | **Alize Software Services LLP, Thanjavur** | **Apr 2026 – Present** |
+| 📊 Data Science & Data Analysis Intern | Infyro, Tiruchirappalli — Hybrid | 1 Month |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period | Score |
+|---|---|---|---|
+| 🎓 MSc Data Science | Bharathidasan University | 2024 – 2026 | 81.64% |
+| 📐 BSc Mathematics | Maruthupandiyar College | 2021 – 2024 | 74.79% |
+| 🔬 HSC — Bio-Maths | St Antony's Higher Secondary School | 2020 – 2021 | 89.35% |
+
+---
+
+## 📜 Certifications & Continuous Learning
+
+| Data & Engineering | AI & Development | Analytics & Technical |
+|---|---|---|
+| Data Engineering Foundations | Prompt Engineering with ChatGPT | Power BI Workshop |
+| Apache PySpark by Example | MySQL Advanced Topics | R for Data Science |
+| Python, R & LaTeX Training | IoT Workshop | Image Processing in MATLAB |
+| MATLAB, LaTeX & Maple Workshop |  |  |
+
+---
+
+## 🎯 Current Focus
+
+```text
+🏢 Executive – Tech & Business
+        │
+        ├── 💼 Business Requirement Analysis
+        ├── 🌐 Web & Application Solutions
+        ├── 🤖 AI-Powered Automation
+        ├── 📊 Data-Driven Decision Systems
+        └── 🚀 Digital Product Development
