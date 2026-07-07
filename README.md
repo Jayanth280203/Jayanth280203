@@ -22,47 +22,29 @@
 
 ---
 
-## 💼 About Me
+<h2 align="center">💼 ABOUT ME</h2>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 ### 🚀 Executive – Tech & Business
 
-**ALIZE SOFTWARE SERVICES LLP**  
-📍 Thanjavur, Tamil Nadu
+**ALIZE SOFTWARE SERVICES LLP** • 📍 Thanjavur, Tamil Nadu
 
-I work at the intersection of **technology, business, AI, data, and product development**—translating requirements into scalable and practical digital solutions.
+<img src="https://img.shields.io/badge/Developer-Building_Digital_Products-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Intelligent_Systems-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Data-Analytics_%26_Insights-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" />
 
-- 🔭 Building AI-powered web and mobile applications
-- 🤖 Exploring RAG, GenAI, NLP, and ML systems
-- 📊 Converting data into dashboards and decision intelligence
-- 🧩 Connecting business problems with practical technology architecture
-- 🎓 MSc Data Science — 2024–2026
+<br/><br/>
 
-</td>
-<td width="40%" align="center" valign="middle">
+I build **web applications, mobile applications, AI systems, APIs, analytics solutions, and business-focused digital products**.
 
-### ⚡ Focus Areas
+`⚡ Full-Stack Thinking` &nbsp; `🤖 AI Engineering` &nbsp; `📱 App Development` &nbsp; `📊 Data Intelligence`
 
-`AI & Machine Learning`
-
-`Web & Mobile Development`
-
-`Data Science & Analytics`
-
-`Business Technology`
-
-`Automation & APIs`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## ⚡ Digital DNA
+<h2 align="center">⚡ DIGITAL DNA</h2>
 
 <div align="center">
 
@@ -79,9 +61,16 @@ I work at the intersection of **technology, business, AI, data, and product deve
 
 ---
 
-## 🧠 Technology Universe
+<h2 align="center">🧠 TECHNOLOGY UNIVERSE</h2>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/CODE-BUILD-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DESIGN-SOLVE-FF4081?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEPLOY-SCALE-7C4DFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEARN-ITERATE-00C853?style=for-the-badge" />
+
+
 
 ### ⚡ Languages & Application Development
 
@@ -120,7 +109,7 @@ I work at the intersection of **technology, business, AI, data, and product deve
 
 ---
 
-## 🚀 Featured Builds
+<h2 align="center">🚀 FEATURED BUILDS</h2>
 
 <div align="center">
 
@@ -156,104 +145,64 @@ An intelligent recruitment ecosystem connecting students and employers through A
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 📄 Chat With PDF
-
-<img src="https://img.shields.io/badge/RAG-AI_SYSTEM-8A2BE2?style=for-the-badge" />
-
-<br/><br/>
-
-Ask questions. Extract insights. Understand documents.
-
-**Python • Streamlit • LangChain**  
-**Gemini • FAISS • RAG**
-
-<br/><br/>
-
-<a href="https://github.com/Jayanth280203/chat-with-pdf"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 📉 Customer Churn AI
-
-<img src="https://img.shields.io/badge/PREDICTIVE-ANALYTICS-FF6F00?style=for-the-badge" />
-
-<br/><br/>
-
-Identify risk. Understand drivers. Predict churn.
-
-**Python • Pandas • Scikit-Learn**  
-**Random Forest • Analytics**
-
-<br/><br/>
-
-<a href="https://github.com/Jayanth280203/Customer_Churn_Analysis_Prediction"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 📱 Smartphone Analytics
-
-<img src="https://img.shields.io/badge/ML-MARKET_INTELLIGENCE-00C7B7?style=for-the-badge" />
-
-<br/><br/>
-
-Analyze markets. Visualize trends. Predict prices.
-
-**Python • Tableau • Regression**  
-**Random Forest • Market Analytics**
-
-<br/><br/>
-
-<a href="https://github.com/Jayanth280203/Smartphone-price-analytics-2025"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### ▶️ YouTube Analytics
-
-<img src="https://img.shields.io/badge/DATA-STORYTELLING-E97627?style=for-the-badge" />
-
-<br/><br/>
-
-Channels. Categories. Growth. Interactive insights.
-
-**Excel • Tableau**  
-**Data Visualization • Storytelling**
-
-<br/><br/>
-
-<a href="https://github.com/Jayanth280203/Subscribers-Galore-Exploring-world-top-you-tube-channels"><img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayanth280203&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jayanth GitHub statistics" />
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth280203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jayanth top languages" />
+### 📄 CHAT WITH PDF
+
+<img src="https://img.shields.io/badge/RAG-AI_SYSTEM-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-Generative_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-Vector_Search-00C7B7?style=for-the-badge" />
+
+**Ask questions • Extract insights • Understand documents**
+
+`Python` • `Streamlit` • `LangChain` • `Gemini` • `FAISS` • `RAG`
+
+<a href="https://github.com/Jayanth280203/chat-with-pdf"><img src="https://img.shields.io/badge/OPEN_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<!-- Static contribution graph is generally more resilient than the failing streak card -->
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanth280203&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+### 📉 CUSTOMER CHURN AI
+
+<img src="https://img.shields.io/badge/ML-PREDICTIVE_ANALYTICS-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Random_Forest-MACHINE_LEARNING-00C853?style=for-the-badge" />
+
+**Identify risk • Understand drivers • Predict churn**
+
+`Python` • `Pandas` • `Scikit-Learn` • `Random Forest` • `Analytics`
+
+<a href="https://github.com/Jayanth280203/Customer_Churn_Analysis_Prediction"><img src="https://img.shields.io/badge/OPEN_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+### 📱 SMARTPHONE PRICE ANALYTICS
+
+<img src="https://img.shields.io/badge/DATA-MARKET_INTELLIGENCE-00C7B7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tableau-DASHBOARD-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+**Analyze markets • Visualize trends • Predict prices**
+
+`Python` • `Tableau` • `Regression` • `Random Forest` • `Market Analytics`
+
+<a href="https://github.com/Jayanth280203/Smartphone-price-analytics-2025"><img src="https://img.shields.io/badge/OPEN_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+### ▶️ YOUTUBE ANALYTICS
+
+<img src="https://img.shields.io/badge/DATA-STORYTELLING-E97627?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tableau-VISUAL_ANALYTICS-4E79A7?style=for-the-badge&logo=tableau&logoColor=white" />
+
+**Channels • Categories • Growth • Interactive insights**
+
+`Excel` • `Tableau` • `Data Visualization` • `Storytelling`
+
+<a href="https://github.com/Jayanth280203/Subscribers-Galore-Exploring-world-top-you-tube-channels"><img src="https://img.shields.io/badge/OPEN_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🏆 Professional Journey
+<h2 align="center">🏆 PROFESSIONAL JOURNEY</h2>
 
 <div align="center">
 
@@ -266,7 +215,7 @@ Channels. Categories. Growth. Interactive insights.
 
 ---
 
-## 🎓 Academic Journey
+<h2 align="center">🎓 ACADEMIC JOURNEY</h2>
 
 <div align="center">
 
@@ -282,7 +231,7 @@ Channels. Categories. Growth. Interactive insights.
 
 ---
 
-## 📜 Learning Stack
+<h2 align="center">📜 LEARNING STACK</h2>
 
 <div align="center">
 
@@ -311,7 +260,7 @@ Channels. Categories. Growth. Interactive insights.
 
 ---
 
-## 🌐 Let's Build Something Impactful
+<h2 align="center">🌐 LET’S BUILD SOMETHING IMPACTFUL</h2>
 
 <div align="center">
 
