@@ -1,14 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
 <!--                     JAYANTH R | PROFILE                        -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# `</> JAYANTH R`
-
-### Executive – Tech & Business × AI × Web × App
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=%24+whoami+%E2%86%92+Jayanth+R;%24+role+%E2%86%92+Executive+Tech+%26+Business;%24+build+%E2%86%92+Web+%7C+Mobile+%7C+AI+Solutions;%24+mission+%E2%86%92+Ideas+Into+Digital+Products" alt="Developer Identity" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=JAYANTH%20R&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Technology%20×%20Business%20×%20AI&descAlignY=60&descSize=20&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=850&lines=Executive+%E2%80%93+Tech+%26+Business+%F0%9F%92%BC;Building+AI-Powered+Digital+Solutions+%F0%9F%A4%96;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Analytics+%F0%9F%93%8A;Web+%26+Mobile+Application+Development+%F0%9F%9A%80;From+Business+Ideas+to+Technology+Solutions+%E2%9A%A1" alt="Typing SVG" />
 
@@ -30,32 +28,25 @@
 
 </div>
 
----
-
 <div align="center">
 
-## 💼 CURRENTLY BUILDING THE BRIDGE BETWEEN BUSINESS & TECHNOLOGY
+💼 CURRENTLY BUILDING THE BRIDGE BETWEEN BUSINESS & TECHNOLOGY
 
 <table>
 <tr>
 <td align="center">
 
-### 🚀 EXECUTIVE – TECH & BUSINESS
+🚀 EXECUTIVE – TECH & BUSINESS
 
-### 🏢 ALIZE SOFTWARE SERVICES LLP
+🏢 ALIZE SOFTWARE SERVICES LLP
 
 📍 Thanjavur, Tamil Nadu
 
 <br/>
 
-![Technology](https://img.shields.io/badge/Technology-Solutions-00C7B7?style=flat-square)
-![Business](https://img.shields.io/badge/Business-Strategy-FF6B6B?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Integration-8A2BE2?style=flat-square)
-![Web](https://img.shields.io/badge/Web-Development-2496ED?style=flat-square)
-![Mobile](https://img.shields.io/badge/Mobile-Solutions-02569B?style=flat-square)
-![Analytics](https://img.shields.io/badge/Data-Analytics-F2C811?style=flat-square)
 
-> **Transforming business requirements into intelligent, scalable and practical digital solutions.**
+
+Transforming business requirements into intelligent, scalable and practical digital solutions.
 
 </td>
 </tr>
@@ -63,9 +54,7 @@
 
 </div>
 
----
-
-## ⚡ MY DIGITAL DNA
+⚡ MY DIGITAL DNA
 
 <div align="center">
 
@@ -74,61 +63,65 @@
 
 <td width="25%" align="center">
 
-### 💼
-### TECH × BUSINESS
+💼
 
-`Requirements`
+TECH × BUSINESS
 
-`Solutions`
+Requirements
 
-`Strategy`
+Solutions
 
-`Automation`
+Strategy
 
-</td>
-
-<td width="25%" align="center">
-
-### 🤖
-### AI × ML
-
-`Prediction`
-
-`NLP`
-
-`RAG`
-
-`Gen AI`
+Automation
 
 </td>
 
 <td width="25%" align="center">
 
-### 💻
-### BUILD
+🤖
 
-`Web Apps`
+AI × ML
 
-`Mobile Apps`
+Prediction
 
-`REST APIs`
+NLP
 
-`Cloud DB`
+RAG
+
+Gen AI
 
 </td>
 
 <td width="25%" align="center">
 
-### 📊
-### ANALYZE
+💻
 
-`Analytics`
+BUILD
 
-`Dashboards`
+Web Apps
 
-`Insights`
+Mobile Apps
 
-`BI`
+REST APIs
+
+Cloud DB
+
+</td>
+
+<td width="25%" align="center">
+
+📊
+
+ANALYZE
+
+Analytics
+
+Dashboards
+
+Insights
+
+BI
 
 </td>
 
@@ -137,19 +130,17 @@
 
 </div>
 
----
-
-# 🧠 TECHNOLOGY UNIVERSE
+🧠 TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-### ⚡ Languages & Application Development
+⚡ Languages & Application Development
 
 <img src="https://skillicons.dev/icons?i=python,dart,flutter,flask,r,mysql&theme=dark" />
 
 <br/><br/>
 
-### 🤖 AI • Machine Learning • Data
+🤖 AI • Machine Learning • Data
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -159,7 +150,7 @@
 
 <br/><br/>
 
-### ☁️ Database • Big Data • Analytics
+☁️ Database • Big Data • Analytics
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
@@ -172,21 +163,19 @@
 
 <br/><br/>
 
-### 🛠 Development Environment
+🛠 Development Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
----
-
-# 🚀 FEATURED BUILDS
+🚀 FEATURED BUILDS
 
 <div align="center">
 
-## 🧠 SMART
+🧠 SMART
 
-### Skill Mapping & Analytics for Recruiting Talents
+Skill Mapping & Analytics for Recruiting Talents
 
 <img src="https://img.shields.io/badge/AI_POWERED-RECRUITMENT_PLATFORM-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ML-ROLE_PREDICTION-FF6F00?style=for-the-badge"/>
@@ -205,18 +194,15 @@
 
 <br/>
 
-`Flutter` • `Dart` • `Python` • `Flask` • `MongoDB Atlas`
+Flutter • Dart • Python • Flask • MongoDB Atlas
 
-`Scikit-Learn` • `Random Forest` • `NLP` • `Gemini API`
+Scikit-Learn • Random Forest • NLP • Gemini API
 
 <br/>
 
-> 🎓 **MSc Data Science Final Project**  
-> An intelligent recruitment ecosystem connecting students and employers through AI, machine learning, resume intelligence and location-wise talent analytics.
+🎓 MSc Data Science Final ProjectAn intelligent recruitment ecosystem connecting students and employers through AI, machine learning, resume intelligence and location-wise talent analytics.
 
 </div>
-
----
 
 <table align="center" width="90%">
 <tr>
@@ -231,15 +217,15 @@
 
 <br/><br/>
 
-**Ask questions. Extract insights. Understand documents.**
+Ask questions. Extract insights. Understand documents.
 
 <br/>
 
-`Python` `Streamlit`
+Python Streamlit
 
-`LangChain` `Gemini`
+LangChain Gemini
 
-`FAISS` `RAG`
+FAISS RAG
 
 <br/><br/>
 
@@ -261,15 +247,15 @@
 
 <br/><br/>
 
-**Identify risk. Understand drivers. Predict churn.**
+Identify risk. Understand drivers. Predict churn.
 
 <br/>
 
-`Python` `Pandas`
+Python Pandas
 
-`Scikit-Learn`
+Scikit-Learn
 
-`Random Forest`
+Random Forest
 
 <br/><br/>
 
@@ -299,15 +285,15 @@
 
 <br/><br/>
 
-**Analyze markets. Visualize trends. Predict prices.**
+Analyze markets. Visualize trends. Predict prices.
 
 <br/>
 
-`Python` `Tableau`
+Python Tableau
 
-`Linear Regression`
+Linear Regression
 
-`Random Forest`
+Random Forest
 
 <br/><br/>
 
@@ -329,15 +315,15 @@
 
 <br/><br/>
 
-**Channels. Categories. Growth. Interactive insights.**
+Channels. Categories. Growth. Interactive insights.
 
 <br/>
 
-`Excel`
+Excel
 
-`Tableau`
+Tableau
 
-`Data Visualization`
+Data Visualization
 
 <br/><br/>
 
@@ -352,45 +338,57 @@
 </tr>
 </table>
 
----
-
 <h1 align="center">📈 GITHUB ANALYTICS</h1>
 
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jayanth280203&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
+width="49%"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jayanth280203&show_icons=true&theme=tokyonight&hide_border=true"
+alt="GitHub Stats"
 />
 
 <img
-  width="37%"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jayanth280203&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
+width="37%"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jayanth280203&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
 />
 
 <br/><br/>
 
+<img
+width="70%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanth280203&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
 
 </div>
 
----
-
-# 🏆 PROFESSIONAL JOURNEY
+🏆 PROFESSIONAL JOURNEY
 
 <div align="center">
 
-| 🚀 ROLE | 🏢 ORGANIZATION | 📅 TIMELINE |
-|:---|:---|:---:|
-| **Executive – Tech & Business** | **Alize Software Services LLP** | **Apr 2026 → Present** |
-| Data Science & Data Analysis Intern | Infyro | 1 Month |
+🚀 ROLE
+
+🏢 ORGANIZATION
+
+📅 TIMELINE
+
+Executive – Tech & Business
+
+Alize Software Services LLP
+
+Apr 2026 → Present
+
+Data Science & Data Analysis Intern
+
+Infyro
+
+1 Month
 
 </div>
 
----
-
-# 🎓 ACADEMIC JOURNEY
+🎓 ACADEMIC JOURNEY
 
 <div align="center">
 
@@ -399,43 +397,43 @@
 
 <td align="center" width="33%">
 
-### 🎓 MSc
+🎓 MSc
 
-**DATA SCIENCE**
+DATA SCIENCE
 
 Bharathidasan University
 
-`2024 → 2026`
+2024 → 2026
 
-### 81.64%
+81.64%
 
 </td>
 
 <td align="center" width="33%">
 
-### 📐 BSc
+📐 BSc
 
-**MATHEMATICS**
+MATHEMATICS
 
 Maruthupandiyar College
 
-`2021 → 2024`
+2021 → 2024
 
-### 74.79%
+74.79%
 
 </td>
 
 <td align="center" width="33%">
 
-### 🔬 HSC
+🔬 HSC
 
-**BIO-MATHEMATICS**
+BIO-MATHEMATICS
 
 St Antony's HSS
 
-`2020 → 2021`
+2020 → 2021
 
-### 89.35%
+89.35%
 
 </td>
 
@@ -444,42 +442,38 @@ St Antony's HSS
 
 </div>
 
----
-
-# 📜 LEARNING STACK
+📜 LEARNING STACK
 
 <div align="center">
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced_Topics-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-Foundations-FF6F00?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/Apache_PySpark-By_Example-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-Workshop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-Data_Science-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
+
 
 <details>
 <summary><b>🔎 View More Certifications</b></summary>
 
 <br/>
 
-- Python, R & LaTeX Training
-- MATLAB, LaTeX & Maple Workshop
-- Image Processing in MATLAB
-- IoT Workshop
+Python, R & LaTeX Training
+
+MATLAB, LaTeX & Maple Workshop
+
+Image Processing in MATLAB
+
+IoT Workshop
 
 </details>
 
 </div>
 
----
-
-# 🌐 LET'S BUILD SOMETHING IMPACTFUL
+🌐 LET'S BUILD SOMETHING IMPACTFUL
 
 <div align="center">
 
-### AI × DATA × TECHNOLOGY × BUSINESS
+AI × DATA × TECHNOLOGY × BUSINESS
 
 <br/>
 
@@ -501,8 +495,6 @@ St Antony's HSS
 
 <br/>
 
-### `git commit -m "Build. Learn. Improve. Repeat."`
-
-**Turning ideas into intelligent digital products.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
 
 </div>
