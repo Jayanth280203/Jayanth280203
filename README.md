@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=JAYANTH%20R&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Technology%20×%20Business%20×%20AI&descAlignY=60&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24&text=%3C%2F%3E%20JAYANTH%20R&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=EXECUTIVE%20TECH%20%26%20BUSINESS%20%E2%80%A2%20AI%20%E2%80%A2%20WEB%20%E2%80%A2%20APP&descAlignY=64&descSize=16&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=850&lines=Executive+%E2%80%93+Tech+%26+Business+%F0%9F%92%BC;Building+AI-Powered+Digital+Solutions+%F0%9F%A4%96;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Analytics+%F0%9F%93%8A;Web+%26+Mobile+Application+Development+%F0%9F%9A%80;From+Business+Ideas+to+Technology+Solutions+%E2%9A%A1" alt="Typing SVG" />
 
@@ -369,9 +369,9 @@
 <br/><br/>
 
 <img
-  width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Jayanth280203&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanth280203&theme=tokyo-night&hide_border=true&area=true"
+  alt="Jayanth R GitHub Contribution Activity Graph"
 />
 
 </div>
@@ -502,6 +502,10 @@ St Antony's HSS
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=%24+git+commit+-m+%22Build.+Learn.+Improve.+Repeat.%22;%24+deploy+--future+--with-impact;%3E+Turning+Ideas+Into+Intelligent+Digital+Products" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=12,20,24&section=footer&text=%3C%2F%3E%20BUILDING%20THE%20FUTURE&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=fadeIn"/>
 
 </div>
