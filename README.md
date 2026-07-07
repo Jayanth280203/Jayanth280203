@@ -235,24 +235,80 @@ An intelligent recruitment ecosystem connecting students and employers through A
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Apache_PySpark-By_Example-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Engineering-Foundations-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-Advanced_Topics-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-AI_Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+### 🎓 Certifications
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="33%">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache"/><br/><br/>
+<b>Apache PySpark by Example</b><br/>
+<sub>Big Data Processing • Spark</sub>
+</td>
+<td align="center" width="33%">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Data Engineering"/><br/><br/>
+<b>Data Engineering Foundations</b><br/>
+<sub>Pipelines • ETL • Data Systems</sub>
+</td>
+<td align="center" width="33%">
+<img height="42" src="https://cdn.simpleicons.org/openai/white" alt="OpenAI"/><br/><br/>
+<b>Prompt Engineering with ChatGPT</b><br/>
+<sub>Prompt Design • Generative AI</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/><br/><br/>
+<b>MySQL Advanced Topics</b><br/>
+<sub>SQL • Queries • Database</sub>
+</td>
+<td align="center" width="33%">
+<img height="42" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI"/><br/><br/>
+<b>AI-Powered Power BI Dashboards</b><br/>
+<sub>BI • Visualization • Dashboards</sub>
+</td>
+<td align="center" width="33%">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/><br/><br/>
+<b>Advanced Data Analytics using Python</b><br/>
+<sub>Analytics • Python • Data Science</sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <details>
 <summary><b>🔎 View More Certifications & Workshops</b></summary>
 
 <br/>
 
-- Python, R & LaTeX Training
-- MATLAB, LaTeX & Maple Workshop
-- Applications of Image Processing in MATLAB
-- IoT Workshop
-- Advanced Data Analytics using Python
+<table>
+<tr>
+<td align="center" width="50%">
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+&nbsp;
+<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"/>
+<br/><br/>
+<b>Python, R & LaTeX Training</b>
+</td>
+<td align="center" width="50%">
+<img height="38" src="https://cdn.simpleicons.org/latex/white" alt="LaTeX"/>
+<br/><br/>
+<b>MATLAB, LaTeX & Maple Workshop</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img height="38" src="https://cdn.simpleicons.org/mathworks/0076A8" alt="MATLAB"/>
+<br/><br/>
+<b>Applications of Image Processing in MATLAB</b>
+</td>
+<td align="center" width="50%">
+<img height="38" src="https://cdn.simpleicons.org/arduino/00878F" alt="IoT"/>
+<br/><br/>
+<b>IoT Workshop</b>
+</td>
+</tr>
+</table>
 
 </details>
 
